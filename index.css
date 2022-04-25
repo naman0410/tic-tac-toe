@@ -1,5 +1,5 @@
 body {
-    font-family: "Arial",emoji;
+    font-family: "italic",emoji;
 }
 
 section {
@@ -7,7 +7,7 @@ section {
 }
 
 .game--title {
-    font-size: 100px;
+    font-size: 150px;
     color: yellowgreen;
     margin: 10px auto;
 }
@@ -16,7 +16,7 @@ section {
     display: grid;
     grid-template-columns: repeat(3, auto);
     width: 315px;
-    margin: 10px auto;
+    margin: 8px auto;
     background-color: white;
     color: darkorange;
 }
@@ -33,7 +33,7 @@ section {
 }
 
 .game--status {
-    font-size: 35px;
+    font-size: 45px;
     color: red;
     margin: 20px auto;
 }
@@ -43,8 +43,7 @@ section {
     width: 200px;
     height: 55px;
     font-size: 40px;
-    color: darkorange;
-    box-shadow: 2px 2px yellowgreen;
-    border: 2px solid yellowgreen;
+    color: yellowgreen;
+    border:  3.5px solid darkorange;
 }
  
