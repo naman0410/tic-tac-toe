@@ -1,0 +1,50 @@
+body {
+    font-family: "Arial",emoji;
+}
+
+section {
+    text-align: center;
+}
+
+.game--title {
+    font-size: 100px;
+    color: yellowgreen;
+    margin: 10px auto;
+}
+
+.game--container {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 315px;
+    margin: 10px auto;
+    background-color: white;
+    color: darkorange;
+}
+
+.cell {
+    font-family: "Permanent Marker", cursive;
+    width: 100px;
+    height: 100px;
+    box-shadow: 2px 2px 2px 2px black;
+    border:   #white;
+    cursor: pointer;
+    line-height: 12x;
+    font-size: 65px;
+}
+
+.game--status {
+    font-size: 35px;
+    color: red;
+    margin: 20px auto;
+}
+
+.game--restart {
+    background-color: black;
+    width: 200px;
+    height: 55px;
+    font-size: 40px;
+    color: darkorange;
+    box-shadow: 2px 2px yellowgreen;
+    border: 2px solid yellowgreen;
+}
+ 
