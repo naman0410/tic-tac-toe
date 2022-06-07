@@ -8,7 +8,7 @@ section {
 
 .game--title {
     font-size: 150px;
-    color: yellowgreen;
+    color: red
     margin: 10px auto;
 }
 
@@ -18,7 +18,7 @@ section {
     width: 315px;
     margin: 8px auto;
     background-color: white;
-    color: darkorange;
+    color: blue;
 }
 
 .cell {
@@ -34,7 +34,7 @@ section {
 
 .game--status {
     font-size: 45px;
-    color: red;
+    color: green;
     margin: 20px auto;
 }
 
@@ -43,7 +43,7 @@ section {
     width: 200px;
     height: 55px;
     font-size: 40px;
-    color: yellowgreen;
-    border:  3.5px solid darkorange;
+    color: red;
+    border:  3.5px solid blue;
 }
  
